@@ -30,7 +30,7 @@ jobs:
       - name: Upload folder
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'class-of-09'
+          path: 'buckshot-roulette'
 
       - name: Deploy to GitHub Pages
         id: deployment
